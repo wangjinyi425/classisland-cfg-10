@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "上海市浦东新区上南东校2028级10班",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
+        "Value": "https://gh.llkk.cc/https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
+        "Value": "https://gh.llkk.cc/https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
+        "Value": "https://gh.llkk.cc/https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
         "Version": 1
     }
 }
