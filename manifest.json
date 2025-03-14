@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://gh.llkk.cc/https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/Default.json",
         "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://gh.llkk.cc/https://raw.githubusercontent.com/wangjinyi425/classisland-cfg-10/main/policy.json",
+        "Version": 1
     }
 }
